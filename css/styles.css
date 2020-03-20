@@ -1,0 +1,40 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+h2 {
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+ul {
+  font-family: sans-serif;
+  text-align: center;
+  list-style-type: none;
+}
+
+ul li {
+  margin: 5px;
+  padding: 2px;
+  font-style: italic;
+  color: rgb(113, 155, 122);
+  font-weight: bold;
+}
+
+#mydog {
+  transform: rotate(0deg);
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  height: 10%;
+}
